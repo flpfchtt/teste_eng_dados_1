@@ -1,0 +1,19 @@
+1. Identifique os 5 clientes que mais sofreram atualizações na base.
+
+Foi considerado a coluna cod_cliente para identificação do cliente e a dt_atualização para mudanças na base.
+Com isso, os 5 clientes com mais atualizações foram:
+
+cod_cliente 396, 5 atualizações
+cod_cliente 479, 5 atualizações
+cod_cliente 878, 5 atualizações
+cod_cliente 855, 4 atualizações
+cod_cliente 71, 3 atualizações
+
+OBS: Outros 15 clientes ficaram empatados com o cliente 71 com 3 atualizações, o critério de desempate foi o menor cod_cliente
+
+2. Calcule a média da idade dos clientes 
+
+Para esse cálculo foi considerada a última data de atualização de cada cliente para se ter a visão mais atualizada da carteira e, com isso,
+foi calculada ai dade em anos de cada cliente baseado na data de 08/06/2025.
+
+A média final foi de 50.60 anos de idade
